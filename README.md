@@ -8,6 +8,11 @@ WoW-Technology is an all-in-one repository curated with the most relevant, updat
 S.No. | Content/Topic | Additional Comment
 --- | --- | ---
 
+## Shortcuts
+
+Topic | Description
+--- | ---
+
 ## References
 
 ## Author(s)
