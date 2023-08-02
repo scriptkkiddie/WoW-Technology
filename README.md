@@ -17,5 +17,5 @@ Topic | Description
 
 ## Author(s)
 
-[@ScriptKKiddie](https://github.com/ScriptKKiddie)
+[@ScriptKkiddie](https://github.com/scriptkkiddie)
 [@webdevprashant](https://github.com/webdevprashant)
